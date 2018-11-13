@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BRight
+  - BLeft
+  - BUp
+  - BDown
+  - Bloque
+  - Bloque2
+  - Water
+  - Saw
+  - Mace
+  - Coin
+  - SavePosition
+  - PlayerSpeed
+  - PlayerMini
+  - PlayerBig
+  - Spike
+  - GrassHill
+  - Rock1
+  - Rock2
+  - Boat1
+  - Boat2
+  - BoatNoMove
+  - Harbour1
+  - Harbour2
+  - Door
+  - Live
+  - ShootOut
+  - ShootIn
+  - Ball
+  - StartShoot
+  - StopShoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2800866895
+    locked: 0
+  - name: Foreground
+    uniqueID: 1140797717
+    locked: 0
